@@ -3,7 +3,7 @@
 
 We argue that the pandemic did not just expose us to a virus, it exposed vulnerabilities in how we interact with and share public spaces. Tasks we once considered mundane, like using an elevator, vending machine, or ATM, became sources of anxiety and discomfort for some. Through research and our own interviews, we found that people are now far more aware of germs and hygiene than they ever were before the pandemic. This heightened awareness inspired our project, driven by a simple but powerful observation: the less we touch, the safer we feel.
 
-##2. The solution 
+## 2. The solution 
 
 Our design is a touchless number panel for elevators and door code machines, aimed at minimizing physical contact with surfaces in public spaces to enhance both hygiene and convenience. It operates using infrared transmitters and a receiver that detects the number being pointed at. What sets our design apart is not just the touch-free interaction but also the added features, such as two types of immediate feedback to confirm each selection, ensuring a seamless and user-friendly experience.
 We believe the true value of our product lies both in its scalability and its suitability for the context it was designed for. Our research identified a pressing need for hygienic, contactless interaction, a problem our design successfully resolves.
